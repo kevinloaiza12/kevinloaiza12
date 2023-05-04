@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there, I'm Kevin 👋 
+## <gif><img src = "https://giphy.com/gifs/pudgypenguins-lie-dev-data-doesnt-LaVp0AyqR5bGsC5Cbm" width = 50px></picture> **About me**
 
-<!--
-**kevinloaiza12/kevinloaiza12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture> <img align="right" src="./assets/mdImages/Right_Side.gif" width = 250px></picture>
+- 🧩 I'm a Computer Science student at EAFIT University.
+- 🏁 I'm excited to continue exploring new technologies and expanding my knowledge as a developer, but mostly I'm interested in data related stuff.
+- 🔭 I'm currently learning data science.
+- 😄 I’m currently open for an internship or a new job opportunity, this is my [Linkedin.](https://www.linkedin.com/in/kevin-loaiza-/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- 💻 Python, Java.
+- 💿 Laravel.
+- 🚀 GCP, Azure DevOps, Docker, MySql.
