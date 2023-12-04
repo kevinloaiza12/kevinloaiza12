@@ -3,10 +3,10 @@
 
 <picture> <img align="right" src="./assets/mdImages/Right_Side.gif" width = 250px></picture>
 - 🧩 I'm a Computer Science student at EAFIT University.
-- 🏁 I'm excited to continue exploring new technologies and expanding my knowledge as a developer, but mostly I'm interested in data related stuff.
+- 🏁 I'm excited to continue exploring new technologies and expanding my knowledge as a developer and data related stuff.
 - 🔭 I'm currently learning data science.
 
 ## Skills
 - 💻 Python, Java, C#.
-- 💿 Laravel.
-- 🚀 GCP, Azure, Docker, MySql.
+- 💿 .Net, Angular.
+- 🚀 GCP, Azure, Docker, SQL.
